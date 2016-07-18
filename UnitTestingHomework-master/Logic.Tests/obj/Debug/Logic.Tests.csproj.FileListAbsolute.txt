@@ -1,0 +1,12 @@
+C:\FILES\GitHub\BSA-16-.NET---Code-Testing\UnitTestingHomework-master\Logic.Tests\bin\Debug\Logic.Tests.dll
+C:\FILES\GitHub\BSA-16-.NET---Code-Testing\UnitTestingHomework-master\Logic.Tests\bin\Debug\Logic.Tests.pdb
+C:\FILES\GitHub\BSA-16-.NET---Code-Testing\UnitTestingHomework-master\Logic.Tests\bin\Debug\Logic.dll
+C:\FILES\GitHub\BSA-16-.NET---Code-Testing\UnitTestingHomework-master\Logic.Tests\bin\Debug\nunit.framework.dll
+C:\FILES\GitHub\BSA-16-.NET---Code-Testing\UnitTestingHomework-master\Logic.Tests\bin\Debug\Logic.pdb
+C:\FILES\GitHub\BSA-16-.NET---Code-Testing\UnitTestingHomework-master\Logic.Tests\bin\Debug\nunit.framework.xml
+C:\FILES\GitHub\BSA-16-.NET---Code-Testing\UnitTestingHomework-master\Logic.Tests\obj\Debug\Logic.Tests.csprojResolveAssemblyReference.cache
+C:\FILES\GitHub\BSA-16-.NET---Code-Testing\UnitTestingHomework-master\Logic.Tests\obj\Debug\Logic.Tests.dll
+C:\FILES\GitHub\BSA-16-.NET---Code-Testing\UnitTestingHomework-master\Logic.Tests\obj\Debug\Logic.Tests.pdb
+C:\FILES\GitHub\BSA-16-.NET---Code-Testing\UnitTestingHomework-master\Logic.Tests\bin\Debug\FakeItEasy.dll
+C:\FILES\GitHub\BSA-16-.NET---Code-Testing\UnitTestingHomework-master\Logic.Tests\bin\Debug\FakeItEasy.pdb
+C:\FILES\GitHub\BSA-16-.NET---Code-Testing\UnitTestingHomework-master\Logic.Tests\bin\Debug\FakeItEasy.xml

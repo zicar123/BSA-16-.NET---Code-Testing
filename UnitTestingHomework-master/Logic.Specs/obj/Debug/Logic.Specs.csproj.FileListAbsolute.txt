@@ -1,0 +1,9 @@
+C:\FILES\GitHub\BSA-16-.NET---Code-Testing\UnitTestingHomework-master\Logic.Specs\bin\Debug\Logic.Specs.dll.config
+C:\FILES\GitHub\BSA-16-.NET---Code-Testing\UnitTestingHomework-master\Logic.Specs\bin\Debug\Logic.Specs.dll
+C:\FILES\GitHub\BSA-16-.NET---Code-Testing\UnitTestingHomework-master\Logic.Specs\bin\Debug\Logic.Specs.pdb
+C:\FILES\GitHub\BSA-16-.NET---Code-Testing\UnitTestingHomework-master\Logic.Specs\bin\Debug\nunit.framework.dll
+C:\FILES\GitHub\BSA-16-.NET---Code-Testing\UnitTestingHomework-master\Logic.Specs\bin\Debug\TechTalk.SpecFlow.dll
+C:\FILES\GitHub\BSA-16-.NET---Code-Testing\UnitTestingHomework-master\Logic.Specs\bin\Debug\nunit.framework.xml
+C:\FILES\GitHub\BSA-16-.NET---Code-Testing\UnitTestingHomework-master\Logic.Specs\obj\Debug\Logic.Specs.csprojResolveAssemblyReference.cache
+C:\FILES\GitHub\BSA-16-.NET---Code-Testing\UnitTestingHomework-master\Logic.Specs\obj\Debug\Logic.Specs.dll
+C:\FILES\GitHub\BSA-16-.NET---Code-Testing\UnitTestingHomework-master\Logic.Specs\obj\Debug\Logic.Specs.pdb

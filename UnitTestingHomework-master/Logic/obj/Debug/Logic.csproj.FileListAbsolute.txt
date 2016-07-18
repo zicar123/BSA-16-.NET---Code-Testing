@@ -1,0 +1,4 @@
+C:\FILES\GitHub\BSA-16-.NET---Code-Testing\UnitTestingHomework-master\Logic\bin\Debug\Logic.dll
+C:\FILES\GitHub\BSA-16-.NET---Code-Testing\UnitTestingHomework-master\Logic\bin\Debug\Logic.pdb
+C:\FILES\GitHub\BSA-16-.NET---Code-Testing\UnitTestingHomework-master\Logic\obj\Debug\Logic.dll
+C:\FILES\GitHub\BSA-16-.NET---Code-Testing\UnitTestingHomework-master\Logic\obj\Debug\Logic.pdb

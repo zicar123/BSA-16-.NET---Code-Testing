@@ -1,0 +1,8 @@
+C:\FILES\GitHub\BSA-16-.NET---Code-Testing\UnitTestingHomework-master\ForTest\bin\Debug\ForTest.exe.config
+C:\FILES\GitHub\BSA-16-.NET---Code-Testing\UnitTestingHomework-master\ForTest\bin\Debug\ForTest.exe
+C:\FILES\GitHub\BSA-16-.NET---Code-Testing\UnitTestingHomework-master\ForTest\bin\Debug\ForTest.pdb
+C:\FILES\GitHub\BSA-16-.NET---Code-Testing\UnitTestingHomework-master\ForTest\bin\Debug\Logic.dll
+C:\FILES\GitHub\BSA-16-.NET---Code-Testing\UnitTestingHomework-master\ForTest\bin\Debug\Logic.pdb
+C:\FILES\GitHub\BSA-16-.NET---Code-Testing\UnitTestingHomework-master\ForTest\obj\Debug\ForTest.exe
+C:\FILES\GitHub\BSA-16-.NET---Code-Testing\UnitTestingHomework-master\ForTest\obj\Debug\ForTest.pdb
+C:\FILES\GitHub\BSA-16-.NET---Code-Testing\UnitTestingHomework-master\ForTest\obj\Debug\ForTest.csprojResolveAssemblyReference.cache
